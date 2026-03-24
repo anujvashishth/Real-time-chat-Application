@@ -29,8 +29,6 @@ project-folder/
 │
 ├── public/
 │   ├── index.html
-│   ├── style.css
-│   └── script.js
 │
 ├── index.js
 └── README.md
